@@ -1,1 +1,1 @@
-Adam Van Etten's GitHub Pages 
+Adam Van Etten's GitHub Pages
