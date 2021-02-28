@@ -1,2 +1,1 @@
-# avanetten.github.io
-Adam Van Etten's Pages
+# Adam Van Etten's Recent Research Projects
