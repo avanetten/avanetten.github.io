@@ -1,7 +1,9 @@
 # Adam Van Etten's Recent Research Projects
 
 [medium.com/@avanetten](https://medium.com/@avanetten)
+
 [GitHub](https://github.com/avanetten)
+
 [arXiv](https://arxiv.org/search/?searchtype=author&query=Van+Etten%2C+A)
 
 
