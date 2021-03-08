@@ -37,6 +37,5 @@ Challenge Manager for SpaceNets 3, 5, 7...
 
 #### APLS
 
-####
 
 ...
