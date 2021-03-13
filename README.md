@@ -15,11 +15,6 @@ Studying performance curves along various axes yields far more insights than jus
 
 _Notional utility manifold._
 
-<figure>
-	<img src="figs/utility_manifold.png" width="300">
-	<figcaption>*Notional utility manifold.*</figcaption>
-<figure>
-
 ------
 
 ## Selected Projects
@@ -32,7 +27,7 @@ Five years ago (2016) no open source codebase existed for applying state of the 
 
 <figure>
 <img src="figs/yolt_cars.png" height="250">
-<figcaption>*YOLT car predictions.*</figcaption>
+<figcaption> _YOLT car predictions._ </figcaption>
 <figure>
 
 Subsequently, [SIMRDWN]((https://github.com/avanetten/simrdwn) was created to extend the capabilities of YOLT to other object detection frameworks (YOLO, SSD, and Faster RCNN).  
