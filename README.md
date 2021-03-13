@@ -86,7 +86,7 @@ _Road predictions, colored by speed._
 SpaceNet 7 was the first SpaceNet challenge to focus on time series analysis, specifically urban development and building tracking.   See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-7/), [SpaceNet page](https://spacenet.ai/sn7-challenge/), or the papers below for further details about SpaceNet 7.
 
 
-<img src="figs/sn7_gif.gif" height="300">
+<img src="figs/sn7_gif.gif" height="360">
 
 _Urban change captured in one of the SpaceNet 7 regions._ 
 
