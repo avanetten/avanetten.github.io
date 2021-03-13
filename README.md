@@ -11,6 +11,92 @@ This site outlines recent research projects, which are primarily in the geospati
 
 Studying performance curves along various axes yields far more insights than just a single datapoint denoting maximum performance.  This concept has been an overaching theme for recent projects, summarized in [MACHINE LEARNING UTILITY MANIFOLDS FOR NOVEL DATASETS](https://www.cosmiqworks.org/wp-content/uploads/2020/08/iqt_labs_datasets_manifold_2020_08_v1.6_public.pdf).
 
+<img src="figs/utility_manifold.png" width="300"> 
+*Notional utility manifold.*
+
+<figure>
+	<img src="figs/utility_manifold.png" width="300">
+	<figcaption>*Notional utility manifold.*</figcaption>
+<figure>
+
+------
+
+## Selected Projects
+
+Below is are a few recent projects.  For a full list of projects, see  [github.com/avanetten](https://github.com/avanetten), or [recent papers](#Recent Academic Papers)
+
+### YOLT / SIMRDWN
+
+Five years ago (2016) no open source codebase existed for applying state of the art obect detection methods towards the enourmous sizes and unique challenges of satellite imagery.  Hence, [YOLT](https://github.com/avanetten/yolt) was created atop the YOLO framework, and proved able to locate vehicles, ships, buildings, and airports with high precision.  
+
+<figure>
+<img src="figs/yolt_cars.png" height="250">
+<figcaption>*YOLT car predictions.*</figcaption>
+<figure>
+
+Subsequently, [SIMRDWN]((https://github.com/avanetten/simrdwn) was created to extend the capabilities of YOLT to other object detection frameworks (YOLO, SSD, and Faster RCNN).  
+
+----
+### CRESI
+
+The [CRESI](https://github.com/avanetten/cresi) project provides an end-to-end pipeline to train models to detect routable road networks over entire cities, and also provide speed limits and travel time estimates for each roadway.  We have observed success with both SpaceNet imagery and labels, as well as Google satellite imagery with OSM labels. CRESI served as the baseline model for [SpaceNet 3](#SpaceNet 3) and [SpaceNet 5](#SpaceNet 5).
+
+<figure>
+	<img src="figs/routing.png" height="250">
+	<figcaption>*Sample extracted road network and computed optimal path.*</figcaption>
+<figure>
+
+-----
+### APLS
+
+In order to ascertain the quality of proposal graphs created by CRESI, a new graph-theoretic metric was required since existing metrics either ignored important graph features or could not be adapted to new use cases.  APLS measures path lenth similarity for important segments, and was used to score both SpaceNets 3 and 5.  
+
+<figure>
+	<img src="figs/apls1.png" height="250">
+	<figcaption>*APLS path length differences.*</figcaption>
+<figure>
+
+-----
+
+## SpaceNet
+
+As a founding member of [SpaceNet](https://spacenet.ai), I have been heavily involved in SpaceNets 1-7.  SpaceNet is consortium dedicated to providing high quality labeled satellite imagery to the community, and running public data science challenges with these novel datasets.  I served as Challenge Manager for SpaceNets 3, 5, and 7.  
+
+-----
+#### SpaceNet 3
+
+
+SpaceNet 3 aimed to extract routable road networks directly from satellite imagery.  To evaluate proposals, the APLS metric was created (see below).  See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-3/), [SpaceNet page](https://spacenet.ai/spacenet-roads-dataset/), or for further details about SpaceNet 3.
+
+<figure>
+	<img src="figs/roads.jpeg" height="200">
+	<figcaption>*Predicted road network in Las Vegas.*</figcaption>
+<figure>
+
+
+-----
+#### SpaceNet 5
+
+
+SpaceNet 5 built upon SpaceNet 3, and strove to infer travel times as well as physical geometry for road networks.  aimed to extract routable road networks directly from satellite imagery.  See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-5/) for further details.
+
+<figure>
+	<img src="figs/road_speeds.png" height="200">
+	<figcaption>*Predicted road network in Las Vegas.*</figcaption>
+<figure>
+
+
+------
+#### SpaceNet 7
+
+<img src="figs/road_speeds.jpeg" height="200">
+
+SpaceNet was the first SpaceNet challenge to focus on time series analysis, specifically urban development and building tracking.   See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-7/) for further details.
+
+Challenge Manager for SpaceNets 3, 5, 7...
+
+
+
 ------
 
 ## Medium DownLinQ Blog
@@ -39,21 +125,15 @@ _SpaceNet: A Remote Sensing Dataset and Challenge Series_, Van Etten, A., D. Lin
 
 _You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery_, Van Etten, A., 2018, [arXiv](https://arxiv.org/abs/1805.09512)
 
-------
-
-## Selected Projects
-
-### SpaceNet
-
-Challenge Manager for SpaceNets 3, 5, 7...
-
-### YOLT / SIMRDWN
-
-### Multi-temporal Urban Development Baseline
-
-### CRESI
-
-### APLS
 
 
-...
+
+
+-----
+
+- [Installation Instructions](#installation-instructions)
+- [Dependencies](#dependencies)
+- [License](#license)
+- [Useage](#usage)
+
+
