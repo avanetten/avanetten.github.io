@@ -6,7 +6,8 @@
 
 This site outlines recent research projects, which are primarily in the geospatial machine learning sphere as part of [CosmiQ Works](https://www.cosmiqworks.org).
 
-------
+-----
+-----
 ## Machine Learning Utility Manifolds
 
 Studying performance curves along various axes yields far more insights than just a single datapoint denoting maximum performance.  This concept has been an overaching theme for recent projects, summarized in [MACHINE LEARNING UTILITY MANIFOLDS FOR NOVEL DATASETS](https://www.cosmiqworks.org/wp-content/uploads/2020/08/iqt_labs_datasets_manifold_2020_08_v1.6_public.pdf).
@@ -15,12 +16,13 @@ Studying performance curves along various axes yields far more insights than jus
 
 _Notional utility manifold._
 
-------
-
+-----
+-----
 ## Selected Projects
 
 Below is are a few recent projects.  For a full list of projects, see  [github.com/avanetten](https://github.com/avanetten), or [recent papers](#Recent Academic Papers)
 
+----
 ### YOLT / SIMRDWN
 
 Five years ago (2016) no open source codebase existed for applying state of the art obect detection methods towards the enourmous sizes and unique challenges of satellite imagery.  Hence, [YOLT](https://github.com/avanetten/yolt) was created atop the YOLO framework, and proved able to locate vehicles, ships, buildings, and airports with high precision.  
@@ -51,7 +53,7 @@ In order to ascertain the quality of proposal graphs created by CRESI, a new gra
 _APLS path length differences._
 
 -----
-
+-----
 ## SpaceNet
 
 As a founding member of [SpaceNet](https://spacenet.ai), I have been heavily involved in SpaceNets 1-7.  SpaceNet is consortium dedicated to providing high quality labeled satellite imagery to the community, and running public data science challenges with these novel datasets.  I served as Challenge Manager for SpaceNets 3, 5, and 7.  
@@ -91,14 +93,14 @@ SpaceNet 7 was the first SpaceNet challenge to focus on time series analysis, sp
 _Urban change captured in one of the SpaceNet 7 regions._ 
 
 
-------
-
+-----
+-----
 ## Medium DownLinQ Blog
 
 Much of research is available on [The DownLinQ](https://medium.com/the-downlinq) geospatial analysis blog, where as of March 2021 I've published [47 blogs](https://medium.com/@avanetten).
 
-------
-
+-----
+-----
 ## Recent Academic Papers
 
 _The Multi-Temporal Urban Development SpaceNet Dataset_, Van Etten, A. et al., [CVPR 2021](https://arxiv.org/abs/2102.04420)
