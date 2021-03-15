@@ -60,7 +60,7 @@ Five years ago (2016) no open source codebase existed for applying state of the 
 
 Subsequently, [SIMRDWN](https://github.com/avanetten/simrdwn) was created to extend the capabilities of YOLT to other object detection frameworks (YOLO, SSD, and Faster RCNN).  
 
-<img src="figs/yolt_cars.png" height="250">
+<img src="figs/yolt_cars.png" height="300">
 
 _YOLT car predictions._
 
@@ -119,7 +119,7 @@ _Road predictions, colored by speed._
 SpaceNet 7 was the first SpaceNet challenge to focus on time series analysis, specifically urban development and building tracking.   See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-7/), [SpaceNet page](https://spacenet.ai/sn7-challenge/), or the papers below for further details about SpaceNet 7.
 
 
-<img src="figs/sn7_gif.gif" height="360">
+<img src="figs/sn7_gif.gif" height="400">
 
 _Urban change captured in one of the SpaceNet 7 regions._ 
 
