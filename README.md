@@ -51,7 +51,7 @@ _You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery_, 
 -----
 ## Selected Projects
 
-Below is are a few recent projects.  For a full list of projects, see  [github.com/avanetten](https://github.com/avanetten), or [recent papers](#Recent Academic Papers)
+Below is are a few recent projects.  For a full list of projects, see  [github.com/avanetten](https://github.com/avanetten) or recent papers.
 
 ----
 ### YOLT / SIMRDWN
