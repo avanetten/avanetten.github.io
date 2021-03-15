@@ -58,7 +58,7 @@ Below is are a few recent projects.  For a full list of projects, see  [github.c
 
 Five years ago (2016) no open source codebase existed for applying state of the art obect detection methods towards the enourmous sizes and unique challenges of satellite imagery.  Hence, [YOLT](https://github.com/avanetten/yolt) was created atop the YOLO framework, and proved able to locate vehicles, ships, buildings, and airports with high precision.  
 
-Subsequently, [SIMRDWN]((https://github.com/avanetten/simrdwn) was created to extend the capabilities of YOLT to other object detection frameworks (YOLO, SSD, and Faster RCNN).  
+Subsequently, [SIMRDWN](https://github.com/avanetten/simrdwn) was created to extend the capabilities of YOLT to other object detection frameworks (YOLO, SSD, and Faster RCNN).  
 
 <img src="figs/yolt_cars.png" height="250">
 
