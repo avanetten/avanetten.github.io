@@ -2,7 +2,6 @@
 
 * [medium.com/@avanetten](https://medium.com/@avanetten)
 * [github.com/avanetten](https://github.com/avanetten)
-* [arXiv Papers](https://arxiv.org/search/?searchtype=author&query=Van+Etten%2C+A)
 
 This site outlines recent research projects, which are primarily in the geospatial machine learning sphere as part of [CosmiQ Works](https://www.cosmiqworks.org).
 
