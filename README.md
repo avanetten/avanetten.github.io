@@ -9,7 +9,9 @@ This site outlines recent research projects, which are primarily in the geospati
 -----
 ## Machine Learning Utility Manifolds
 
-Studying performance curves along various axes yields far more insights than just a single datapoint denoting maximum performance.  This concept has been an overaching theme for recent projects, summarized in [MACHINE LEARNING UTILITY MANIFOLDS FOR NOVEL DATASETS](https://www.cosmiqworks.org/wp-content/uploads/2020/08/iqt_labs_datasets_manifold_2020_08_v1.6_public.pdf).
+Studying performance curves along various axes yields far more insights than just a single datapoint denoting maximum performance.  This concept has been an overaching theme for recent projects, summarized in:
+
+[MACHINE LEARNING UTILITY MANIFOLDS FOR NOVEL DATASETS](https://www.cosmiqworks.org/wp-content/uploads/2020/08/iqt_labs_datasets_manifold_2020_08_v1.6_public.pdf).
 
 <img src="figs/utility_manifold.png" width="440"> 
 
