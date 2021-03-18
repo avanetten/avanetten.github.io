@@ -3,7 +3,7 @@
 * [medium.com/@avanetten](https://medium.com/@avanetten)
 * [github.com/avanetten](https://github.com/avanetten)
 
-This site outlines recent research projects, which are primarily in the geospatial machine learning sphere as part of [CosmiQ Works](https://www.cosmiqworks.org).
+This site outlines recent research projects, which are primarily in the geospatial machine learning sphere as part of [CosmiQ Works](https://www.cosmiqworks.org). 
 
 -----
 -----
@@ -20,9 +20,11 @@ _Notional utility manifold._
 
 -----
 -----
-## Medium DownLinQ Blog
+##  DownLinQ Blog
 
 Much of research is available on [The DownLinQ](https://medium.com/the-downlinq) geospatial analysis blog, where as of March 2021 I've published [47 blogs](https://medium.com/@avanetten).
+
+Also check out the [Training_Data](https://www.cosmiqworks.org/podcasts/) podcast for multimedia, especially our [Celebrationg CosmiQ Works Podcast](https://www.youtube.com/watch?v=s1XqrlVvp98) on YouTube.
 
 -----
 -----
@@ -52,7 +54,7 @@ _You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery_, 
 -----
 ## Selected Projects
 
-Below is are a few recent projects.  For a full list of projects, see  [github.com/avanetten](https://github.com/avanetten) or recent papers.
+Below is are a few recent projects.  For a full list of projects, see  [github.com/avanetten](https://github.com/avanetten) or recent papers.  
 
 ----
 ### YOLT / SIMRDWN
