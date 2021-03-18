@@ -78,7 +78,7 @@ _Sample extracted road network and computed optimal path._
 -----
 ### APLS
 
-In order to ascertain the quality of proposal graphs created by CRESI, a new graph-theoretic metric was required since existing metrics either ignored important graph features or could not be adapted to new use cases.  APLS measures path lenth similarity for important segments, and was used to score both SpaceNets 3 and 5.  
+In order to ascertain the quality of proposal graphs created by CRESI, a new graph-theoretic metric was required since existing metrics either ignored important graph features or could not be adapted to new use cases.  [APLS](https://github.com/avanetten/apls) measures path lenth similarity for important segments, and was used to score both SpaceNets 3 and 5.  
 
 <img src="figs/apls1.png" height="250">
 
@@ -94,7 +94,7 @@ As a founding member of [SpaceNet](https://spacenet.ai), I have been heavily inv
 #### SpaceNet 3
 
 
-SpaceNet 3 aimed to extract routable road networks directly from satellite imagery.  To evaluate proposals, the APLS metric was created (see below).  See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-3/), [SpaceNet page](https://spacenet.ai/spacenet-roads-dataset/), or the papers below for further details about SpaceNet 3.
+SpaceNet 3 aimed to extract routable road networks directly from satellite imagery.  To evaluate proposals, the APLS metric was created (see below).  See the [CosmiQ Works](https://www.cosmiqworks.org/archived-projects/spacenet-3/) project page, [SpaceNet page](https://spacenet.ai/spacenet-roads-dataset/), or the papers above for further details about SpaceNet 3.
 
 <img src="figs/roads.jpeg" height="200">
 
@@ -105,7 +105,7 @@ _Predicted road network in Las Vegas._
 #### SpaceNet 5
 
 
-SpaceNet 5 built upon SpaceNet 3, and strove to infer travel times as well as physical geometry for road networks.  aimed to extract routable road networks directly from satellite imagery.  See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-5/), [SpaceNet page](https://spacenet.ai/sn5-challenge/), or the papers below for further details about SpaceNet 5.
+SpaceNet 5 built upon SpaceNet 3, and strove to infer travel times as well as physical geometry for road networks.  aimed to extract routable road networks directly from satellite imagery.  See the [CosmiQ Works](https://www.cosmiqworks.org/archived-projects/spacenet-5/) project page, [SpaceNet page](https://spacenet.ai/sn5-challenge/), or the papers above for further details about SpaceNet 5.
 
 
 <img src="figs/road_speeds.png" height="200">
@@ -117,7 +117,7 @@ _Road predictions, colored by speed._
 #### SpaceNet 7
 
 
-SpaceNet 7 was the first SpaceNet challenge to focus on time series analysis, specifically urban development and building tracking.   See the CosmiQ Works [project page](https://www.cosmiqworks.org/archived-projects/spacenet-7/), [SpaceNet page](https://spacenet.ai/sn7-challenge/), or the papers below for further details about SpaceNet 7.
+SpaceNet 7 was the first SpaceNet challenge to focus on time series analysis, specifically urban development and building tracking.   See the [CosmiQ Works](https://www.cosmiqworks.org/archived-projects/spacenet-7/) project page, [SpaceNet page](https://spacenet.ai/sn7-challenge/), or the papers above for further details about SpaceNet 7.
 
 
 <img src="figs/sn7_gif.gif" height="400">
