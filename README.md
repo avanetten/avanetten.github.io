@@ -30,11 +30,11 @@ Also check out the [Training_Data](https://www.cosmiqworks.org/podcasts/) podcas
 -----
 ## Recent Academic Papers
 
-_The Weaknesses of Adversarial Camouflage in Overhead Imagery_, Van Etten, A, 2022, [arXiv]{https://arxiv.org/abs/2207.02963}
+_The Weaknesses of Adversarial Camouflage in Overhead Imagery_, Van Etten, A, 2022, [arXiv](https://arxiv.org/abs/2207.02963)
 
 _The Multi-Temporal Urban Development SpaceNet Dataset_, Van Etten, A. et al., [CVPR 2021](https://arxiv.org/abs/2102.04420)
 
-_RarePlanes: Synthetic Data Takes Flight_, Shermeyer, J., Hossler, T., Van Etten, A. et al.,  [WACV 2021]{https://openaccess.thecvf.com/content/WACV2021/html/Shermeyer_RarePlanes_Synthetic_Data_Takes_Flight_WACV_2021_paper.html}
+_RarePlanes: Synthetic Data Takes Flight_, Shermeyer, J., Hossler, T., Van Etten, A. et al.,  [WACV 2021](https://openaccess.thecvf.com/content/WACV2021/html/Shermeyer_RarePlanes_Synthetic_Data_Takes_Flight_WACV_2021_paper.html)
 
 _SpaceNet 6: Multi-Sensor All Weather Mapping Dataset_, Shermeyer, J. et al., [CVPR EarthVision 2020](https://openaccess.thecvf.com/content_CVPRW_2020/html/w11/Shermeyer_SpaceNet_6_Multi-Sensor_All_Weather_Mapping_Dataset_CVPRW_2020_paper.html)
 
