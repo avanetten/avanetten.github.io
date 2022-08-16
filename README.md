@@ -11,7 +11,7 @@ This site outlines recent research projects, which are primarily in the geospati
 
 Studying performance curves along various axes yields far more insights than just a single datapoint denoting maximum performance.  This concept has been an overarching theme for recent projects, summarized in:
 
-[MACHINE LEARNING UTILITY MANIFOLDS FOR NOVEL DATASETS](https://www.cosmiqworks.org/wp-content/uploads/2020/08/iqt_labs_datasets_manifold_2020_08_v1.6_public.pdf).
+[Machine Learning Utility Manifolds for Novel Datasets](https://www.cosmiqworks.org/wp-content/uploads/2020/08/iqt_labs_datasets_manifold_2020_08_v1.6_public.pdf).
 
 <img src="figs/utility_manifold.png" width="440"> 
 
@@ -20,17 +20,21 @@ _Notional utility manifold._
 
 -----
 -----
-##  DownLinQ Blog
+##  Medium Blog
 
-Much of research is available on [The DownLinQ](https://medium.com/the-downlinq) geospatial analysis blog, where as of March 2021 I've published [47 blogs](https://medium.com/@avanetten).
+Much of my research is available at [medium.com/@avanetten](https://medium.com/@avanetten), which has over 50 blogs on geospatial analysis.
 
-Also check out the [Training_Data](https://www.cosmiqworks.org/podcasts/) podcast for multimedia, especially our [Celebrationg CosmiQ Works Podcast](https://www.youtube.com/watch?v=s1XqrlVvp98) on YouTube.
+Also check out the [Training_Data](https://www.cosmiqworks.org/podcasts/) podcast for multimedia, especially our [Celebrating CosmiQ Works Podcast](https://www.youtube.com/watch?v=s1XqrlVvp98) on YouTube.
 
 -----
 -----
 ## Recent Academic Papers
 
+_The Weaknesses of Adversarial Camouflage in Overhead Imagery_, Van Etten, A, 2022, [arXiv]{https://arxiv.org/abs/2207.02963}
+
 _The Multi-Temporal Urban Development SpaceNet Dataset_, Van Etten, A. et al., [CVPR 2021](https://arxiv.org/abs/2102.04420)
+
+_RarePlanes: Synthetic Data Takes Flight_, Shermeyer, J., Hossler, T., Van Etten, A. et al.,  [WACV 2021]{https://openaccess.thecvf.com/content/WACV2021/html/Shermeyer_RarePlanes_Synthetic_Data_Takes_Flight_WACV_2021_paper.html}
 
 _SpaceNet 6: Multi-Sensor All Weather Mapping Dataset_, Shermeyer, J. et al., [CVPR EarthVision 2020](https://openaccess.thecvf.com/content_CVPRW_2020/html/w11/Shermeyer_SpaceNet_6_Multi-Sensor_All_Weather_Mapping_Dataset_CVPRW_2020_paper.html)
 
